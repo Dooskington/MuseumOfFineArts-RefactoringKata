@@ -1,0 +1,4 @@
+# Museum of Fine Arts - Refactoring Kata
+This is a tiny refactoring kata that I made to exercise some of the refactorings in Chapter 7 of Refactoring by Martin Fowler.
+
+> It's your first day on the job as museum curator at the Fowler Museum of Fine Arts. Your job involves keeping an eye on the value of all the museums paintings, a value which depends on certain circumstances in the art market and the rarity of each individual painting. Luckily, your predecessor wrote up this C# program to make some solid assumptions for you. You've inputed a few paintings (the ones defined in Main()) but still aren't sure how this tool even works. The code must be refactored!

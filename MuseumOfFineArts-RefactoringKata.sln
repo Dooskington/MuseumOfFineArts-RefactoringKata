@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuseumOfFineArts", "MuseumOfFineArts-RefactoringKata\MuseumOfFineArts.csproj", "{016AF109-BE17-4173-A03B-A003F64C31AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuseumOfFineArts.Tests", "MuseumOfFineArts.Tests\MuseumOfFineArts.Tests.csproj", "{93910FDE-9177-44A8-A0DB-715A57C92C62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{016AF109-BE17-4173-A03B-A003F64C31AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{016AF109-BE17-4173-A03B-A003F64C31AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{016AF109-BE17-4173-A03B-A003F64C31AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{016AF109-BE17-4173-A03B-A003F64C31AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93910FDE-9177-44A8-A0DB-715A57C92C62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93910FDE-9177-44A8-A0DB-715A57C92C62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93910FDE-9177-44A8-A0DB-715A57C92C62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93910FDE-9177-44A8-A0DB-715A57C92C62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C2CB8F0-85B0-40C8-A1E0-0FA457477B0D}
+	EndGlobalSection
+EndGlobal
